@@ -24,7 +24,7 @@
     "autoprefixer": "^10.4.2",
     "deepmerge": "^4.2.2",
     "formik": "^2.2.9",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.23",
     "postcss": "^8.4.5",
     "prop-types": "^15.7.2",
     "react-feather": "^2.0.10",
