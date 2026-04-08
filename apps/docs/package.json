@@ -49,7 +49,7 @@
     "config": "*",
     "gray-matter": "^4.0.3",
     "isbot": "^3.6.5",
-    "jsrsasign": "^10.5.26",
+    "jsrsasign": "^11.1.1",
     "lodash": "^4.17.21",
     "markdown-toc": "^1.2.0",
     "mdx-mermaid": "2.0.0-rc3",
